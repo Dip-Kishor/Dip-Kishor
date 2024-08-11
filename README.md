@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://fb.com/dipkishor regmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dipkishor regmi" height="30" width="40" /></a>
 <a href="https://instagram.com/dipkishor_regmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dipkishor_regmi" height="30" width="40" /></a>
+  <a href="https://linkedin.com/dip-kishor-regmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="dipkishor_regmi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
