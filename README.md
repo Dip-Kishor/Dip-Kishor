@@ -7,10 +7,11 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dip-kishor&theme=onedark&column=7&margin-w=10&margin-h=10" alt="dip-kishor" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Dip-Kishor&theme=onedark&column=7&margin-w=10&margin-h=10" alt="Dip-Kishor" />
   </a>
 </p>
 
+- 🌱 I'm currently learning **Golang**
 - 🛠️ I work mostly with **JavaScript / TypeScript, React, .NET, and Python**
 - 💼 All of my projects are available at [dipkishor.com.np](https://dipkishor.com.np)
 - 📫 How to reach me: **dipkishor9910@gmail.com**
@@ -86,14 +87,14 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dip-kishor&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="dip-kishor stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dip-kishor&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="dip-kishor top languages" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dip-Kishor&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Dip-Kishor stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dip-Kishor&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="Dip-Kishor top languages" width="35%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dip-kishor&theme=tokyonight&hide_border=true" alt="dip-kishor streak stats" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=Dip-Kishor&theme=tokyonight&hide_border=true" alt="Dip-Kishor streak stats" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dip-kishor&label=Profile%20views&color=2E9EF7&style=flat" alt="dip-kishor profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Dip-Kishor&label=Profile%20views&color=2E9EF7&style=flat" alt="Dip-Kishor profile views" />
 </p>
