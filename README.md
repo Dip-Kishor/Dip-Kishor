@@ -2,16 +2,9 @@
 <h3 align="center">A passionate software developer from Nepal 🇳🇵</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+things+with+code;Currently+learning+Golang;Always+open+to+collaborate!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+things+with+code;Always+open+to+collaborate!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Dip-Kishor&theme=onedark&column=7&margin-w=10&margin-h=10" alt="Dip-Kishor" />
-  </a>
-</p>
-
-- 🌱 I'm currently learning **Golang**
 - 🛠️ I work mostly with **JavaScript / TypeScript, React, .NET, and Python**
 - 💼 All of my projects are available at [dipkishor.com.np](https://dipkishor.com.np)
 - 📫 How to reach me: **dipkishor9910@gmail.com**
