@@ -11,7 +11,6 @@
   </a>
 </p>
 
-- 🌱 I'm currently learning **Golang**
 - 🛠️ I work mostly with **JavaScript / TypeScript, React, .NET, and Python**
 - 💼 All of my projects are available at [dipkishor.com.np](https://dipkishor.com.np)
 - 📫 How to reach me: **dipkishor9910@gmail.com**
